@@ -32,6 +32,10 @@ h1 {
   word-break: break-word;
 }
 
+.separator {
+  margin-block: 2.62rem;
+}
+
 li {
   display: flex;
   gap: 2rem;
@@ -39,7 +43,7 @@ li {
   text-align: left;
 }
 
-img {
+li img {
   width: 160px;
   height: 160px;
   border-radius: 10px;
